@@ -12,9 +12,9 @@ Tu carcelero es un barbaján muy listo y sobretodo curioso así que si te sirves
 
 La descripción de cada desafío esta al inicio de cada archivo de solución.
 
-**Desafío Aguas venenosas**: [Aguas_venenosas.ipynb](https://jfreek.github.io/tres_desafios/Aguas_venenosas.html)
+**Desafío Aguas venenosas**: [Aguas_venenosas.ipynb](https://jabud.github.io/tres_desafios/Aguas_venenosas.html)
 
-**Desafío Canto de las sirenas**:[Canto_de_las_sirenas.ipynb](https://jfreek.github.io/tres_desafios/Canto_de_las_sirenas.html)
+**Desafío Canto de las sirenas**:[Canto_de_las_sirenas.ipynb](https://jabud.github.io/tres_desafios/Canto_de_las_sirenas.html)
 
-**Desafío Hacerla de jamón**:[Hacerla_de_jamon.ipynb](https://jfreek.github.io/tres_desafios/Hacerla_de_jamon.html)
+**Desafío Hacerla de jamón**:[Hacerla_de_jamon.ipynb](https://jabud.github.io/tres_desafios/Hacerla_de_jamon.html)
 
